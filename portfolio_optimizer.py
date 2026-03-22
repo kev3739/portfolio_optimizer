@@ -7,10 +7,6 @@ Fetches real historical price data, computes the efficient frontier,
 finds the maximum Sharpe ratio and minimum volatility portfolios,
 and produces publication-quality charts.
 
-Author  : Your Name
-GitHub  : github.com/yourusername/portfolio-optimizer
-LinkedIn: linkedin.com/in/yourprofile
-
 Requirements:
     pip install numpy pandas scipy matplotlib yfinance
 
